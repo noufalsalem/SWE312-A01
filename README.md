@@ -1,2 +1,2 @@
-# SWE312-A01-Nouf-AlSalem
+# SWE312-A01
 Most basic game for a class. 
